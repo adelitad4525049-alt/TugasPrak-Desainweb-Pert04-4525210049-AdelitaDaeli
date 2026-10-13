@@ -35,8 +35,10 @@ Proyek ini merupakan halaman portofolio interaktif yang memuat informasi seputar
 - Deskripsi: Penerapan struktur data dan algoritma pemrosesan data menggunakan C++.
 
 ## 📷 Pratinjau Tampilan (*Preview*)
-
+**Output Biodata**
 ![Tampilan Portofolio](images/output1.jpeg)
+
+**Output Arunika studio**
 ![Tampilan Portofolio](images/output2.jpeg)
 
 
