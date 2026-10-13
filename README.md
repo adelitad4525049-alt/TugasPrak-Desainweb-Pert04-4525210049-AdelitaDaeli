@@ -1,7 +1,7 @@
 🌐 **Personal Portfolio Website - Adelita Daeli**
 Website portofolio pribadi berbasis HTML5 dan CSS3 yang dirancang secara responsif (responsive web design) untuk menampilkan profil, keahlian, serta proyek-proyek akademis dan desain.
 
-📌 Daftar Isi
+📌 **Daftar Isi**
 1. Gambaran Umum
 2. Fitur Utama
 3. Teknologi yang Digunakan
